@@ -1,0 +1,7 @@
+.scorebar{
+    border-radius: 0px 0px 10px 10px;
+    background-color: #e1393e;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}

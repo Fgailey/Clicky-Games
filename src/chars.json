@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "bugs",
+        "image": "/images/bugsbunny.jpg",
+        "clicked": false
+    },
+    {
+        "id": "2",
+        "name": "tweety",
+        "image":"/images/tweety.jpg",
+        "clicked": false
+    },
+    {
+        "id": "3",
+        "name": "lola bunny",
+        "image": "/images/lolabunny.png",
+        "clicked": false
+    },
+    {
+        "id": "4",
+        "name": "tasmanian devil",
+        "image": "/images/tasmanian.png",
+        "clicked": false
+    },
+    {
+        "id": "5",
+        "name": "daffy duck",
+        "image": "/images/daffyduck.png",
+        "clicked": false
+    },
+    {
+        "id": "8",
+        "name": "wil e coyote",
+        "image": "/images/wileycoyote.jpg",
+        "clicked": false
+    },
+    {
+        "id": "7",
+        "name": "martian",
+        "image": "/images/martian.png",
+        "clicked": false
+    },
+    {
+        "id": "6",
+        "name": "daffy devil",
+        "image": "/images/daffyduckdevil.jpg",
+        "clicked": false
+    },
+    {
+        "id": "9",
+        "name": "road runner",
+        "image": "/images/roadrunner.jpg",
+        "clicked": false
+    },
+    {
+        "id": "10",
+        "name": "porky pig",
+        "image": "/images/porkypig.png",
+        "clicked": false
+    },
+    {
+        "id": "11",
+        "name": "pepe le pew",
+        "image": "/images/pepelepew.png",
+        "clicked": false
+    },
+    {
+        "id": "12",
+        "name": "speedy gonzales",
+        "image" : "/images/speedygonzales.jpg",
+        "clicked": false
+    }
+]

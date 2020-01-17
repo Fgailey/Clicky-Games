@@ -1,0 +1,16 @@
+.game-nav{
+    background-color: #ffd51f;
+    border-bottom: 2px solid black;
+}
+.body {
+    font-family: 'looneytunes_tilt_btregular';
+}
+
+@font-face {
+    font-family: 'looneytunes_tilt_btregular';
+    src: url('/fonts/looney_tunes_tilt_bt-fontsmagazine-webfont.woff2') format('woff2'),
+         url('/fonts/looney_tunes_tilt_bt-fontsmagazine-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
